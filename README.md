@@ -1,5 +1,4 @@
 # remarkable
-Remarkable Tablet related
 
 I have favorite papers. Prefer dots over lines. But I can barely see the dots on Remarkable's included templates.
 
